@@ -124,3 +124,11 @@ predRightRF <- predictRF==pmlsummary2$numclass
 qplot(predictRF, numclass, data=pmlsummary2, col=predRightRF, position="jitter")
 
 ```
+Test data
+========================================================
+
+- At this point I load up the test data  
+- Test data does not have summary rows, and summary columns are NA
+- So this model fails on test data.
+
+
