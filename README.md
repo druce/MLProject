@@ -11,6 +11,7 @@ qplot-rf.PNG
 
 Created MLproject.Rpres 
 No luck getting it to preview to HTML
+Edit after deadline - slideshow at http://druce.github.io/MLProject/MLproject-Rstudio.html#/
 
 
 
